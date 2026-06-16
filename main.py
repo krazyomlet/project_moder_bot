@@ -108,7 +108,7 @@ def start(message):
         return
     text = (
         f"👋 *Привет, {message.from_user.first_name}!*\n\n"
-        "🤖 Я – *Telegram Chat Manager*\n"
+        "🤖 Я – *Chat Moder Bot*\n"
         "Помогаю админам управлять группой.\n"
         "Для работы дай мне права администратора.\n"
         "Напиши /help, чтобы увидеть команды."
